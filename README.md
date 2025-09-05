@@ -58,13 +58,13 @@ python manage.py runserver
   * Tasks
   * Comments
 
-👉 Role-based membership is available, but you can ignore it if not needed.
+👉 Role-based membership is available, to give access to clients like view or change or owner or memeber.
 
 ---
 
 ## Step 6: API endpoints
 
-Base URL: [http://127.0.0.1:8000/api](http://127.0.0.1:8000/api)
+Base URL: [http://127.0.0.1:8000/api]
 
 * **Clients**
 
